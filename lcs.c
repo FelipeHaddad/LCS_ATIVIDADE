@@ -1,5 +1,6 @@
-// Felipe Bertacco Haddad
-// RA: 10437372
+// Felipe Bertacco Haddad RA: 10437372
+// Ana Julia Matilha RA: 10436655
+// Joao Bocchini RA: 10440034
 
 #include <stdio.h>
 #include <stdlib.h>
